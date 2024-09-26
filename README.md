@@ -1,2 +1,2 @@
 # testrepo
-password = ""
+password = "new-text"
