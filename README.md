@@ -1,2 +1,3 @@
 # testrepo
-password = "aaa"
+password = ""
+
